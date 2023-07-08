@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshu240" alt="devanshu240" /></a> </p>
 
-- 🔭 I’m currently working on [Gamify](https://gamifyy.netlify.app/)
+- 🔭 I’m currently working on [Gamify](https://gamifyyy.netlify.app/)
 
 - 🌱 I’m currently learning **React.js , node.js, epress.js , mongoDB**
 
